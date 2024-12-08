@@ -1,5 +1,5 @@
 # msg-show.nvim
-Render cmdline area output in the same way as from vim.notify (preserving colors). 
+Render cmdline area output in the same way as from vim.notify (preserving highlights). 
 
 - Inspired in some way by https://github.com/echasnovski/mini.notify
 - still very experimental: for example some message kinds are still not handled correctly (inputlist does not work)
